@@ -5,4 +5,4 @@ Com o Auxilio da live <br/>
 https://www.youtube.com/watch?v=tBweoUiMsDg&t=3771s <br/>
 Direitos de imagens da Netflix <br/>
 Dados pegos do site Themoviedb.org <br/>
-
+https://www.themoviedb.org
