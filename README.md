@@ -14,7 +14,7 @@ Para utilizar o projeto é necessário criar uma conta no  https://www.themovied
 que devem ser colocadas no arquivo jutamente com a URL base: <br/>
 >Tmdb.js
 Nas variaveis: <br/>
->const API_KEY = '';
->const API_BASE = '';
+>const API_KEY = '';<br/>
+>const API_BASE = '';<br/>
 ![image](https://user-images.githubusercontent.com/62970346/179647365-0e654d83-7029-4cad-8ec0-31770f9e44d9.png)
 ![image](https://user-images.githubusercontent.com/62970346/179647425-6548beb9-5a40-4760-90aa-8701f66a4b23.png)
