@@ -1,5 +1,5 @@
-const API_KEY = '95c6272dc494fbc8165437dd5fe645da';
-const API_BASE = 'https://api.themoviedb.org/3';
+const API_KEY = 'codigo_tmbd';
+const API_BASE = 'https://url';
 /*
 > Site utilizado para pegar as APIs
 https://www.themoviedb.org/documentation/api
